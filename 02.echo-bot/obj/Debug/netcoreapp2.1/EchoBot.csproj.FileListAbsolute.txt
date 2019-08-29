@@ -1,0 +1,15 @@
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/bin/Debug/netcoreapp2.1/EchoBot.deps.json
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/bin/Debug/netcoreapp2.1/EchoBot.runtimeconfig.json
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/bin/Debug/netcoreapp2.1/EchoBot.runtimeconfig.dev.json
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/bin/Debug/netcoreapp2.1/EchoBot.dll
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/bin/Debug/netcoreapp2.1/EchoBot.pdb
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.csprojAssemblyReference.cache
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.csproj.CoreCompileInputs.cache
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.RazorAssemblyInfo.cache
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.RazorAssemblyInfo.cs
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.AssemblyInfoInputs.cache
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.AssemblyInfo.cs
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.RazorTargetAssemblyInfo.cache
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.dll
+/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/02.echo-bot/obj/Debug/netcoreapp2.1/EchoBot.pdb

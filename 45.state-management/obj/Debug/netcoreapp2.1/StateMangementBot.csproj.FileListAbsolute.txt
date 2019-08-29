@@ -1,0 +1,15 @@
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/bin/Debug/netcoreapp2.1/StateMangementBot.deps.json
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/bin/Debug/netcoreapp2.1/StateMangementBot.runtimeconfig.json
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/bin/Debug/netcoreapp2.1/StateMangementBot.runtimeconfig.dev.json
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/bin/Debug/netcoreapp2.1/StateMangementBot.dll
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/bin/Debug/netcoreapp2.1/StateMangementBot.pdb
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.csprojAssemblyReference.cache
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.csproj.CoreCompileInputs.cache
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.RazorAssemblyInfo.cache
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.RazorAssemblyInfo.cs
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.AssemblyInfoInputs.cache
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.AssemblyInfo.cs
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.RazorTargetAssemblyInfo.cache
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.dll
+/Users/zarak/Work/Bots/CSharpSamples/45.state-management/obj/Debug/netcoreapp2.1/StateMangementBot.pdb
