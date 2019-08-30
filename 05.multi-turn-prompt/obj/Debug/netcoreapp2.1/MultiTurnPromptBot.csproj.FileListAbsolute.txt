@@ -1,0 +1,15 @@
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.csprojAssemblyReference.cache
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.csproj.CoreCompileInputs.cache
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.RazorAssemblyInfo.cache
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.RazorAssemblyInfo.cs
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.AssemblyInfoInputs.cache
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.AssemblyInfo.cs
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/bin/Debug/netcoreapp2.1/MultiTurnPromptBot.deps.json
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/bin/Debug/netcoreapp2.1/MultiTurnPromptBot.runtimeconfig.json
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/bin/Debug/netcoreapp2.1/MultiTurnPromptBot.runtimeconfig.dev.json
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/bin/Debug/netcoreapp2.1/MultiTurnPromptBot.dll
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/bin/Debug/netcoreapp2.1/MultiTurnPromptBot.pdb
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.RazorTargetAssemblyInfo.cache
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.dll
+/Users/zarak/Work/Bots/CSharpSamples/05.multi-turn-prompt/obj/Debug/netcoreapp2.1/MultiTurnPromptBot.pdb
