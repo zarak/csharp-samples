@@ -12412,11 +12412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/03.welcome-user/WelcomeUser.csproj",
+      "projectUniqueName": "/Users/zarak/Work/Bots/CSharpSamples/03.welcome-user/WelcomeUser.csproj",
       "projectName": "WelcomeUser",
-      "projectPath": "/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/03.welcome-user/WelcomeUser.csproj",
+      "projectPath": "/Users/zarak/Work/Bots/CSharpSamples/03.welcome-user/WelcomeUser.csproj",
       "packagesPath": "/Users/zarak/.nuget/packages/",
-      "outputPath": "/Users/zarak/Work/Bots/BotBuilder-Samples/samples/csharp_dotnetcore/03.welcome-user/obj/",
+      "outputPath": "/Users/zarak/Work/Bots/CSharpSamples/03.welcome-user/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
