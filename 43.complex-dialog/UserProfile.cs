@@ -9,6 +9,9 @@ namespace Microsoft.BotBuilderSamples
     public class UserProfile
     {
         public string Name { get; set; }
+        public int WidgetSales { get; set; }
+        public string CompanyName { get; set; }
+        public string JobTitle { get; set; }
         public int Age { get; set; }
 
         // The list of companies the user wants to review.
