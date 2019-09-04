@@ -18,6 +18,7 @@ namespace Microsoft.BotBuilderSamples
             _userState = userState;
 
             AddDialog(new TopLevelDialog());
+            AddDialog(new TestDialog());
 
             AddDialog(new WaterfallDialog(nameof(WaterfallDialog), new WaterfallStep[]
             {
@@ -31,6 +32,11 @@ namespace Microsoft.BotBuilderSamples
         private async Task<DialogTurnResult> InitialStepAsync(WaterfallStepContext stepContext, CancellationToken cancellationToken)
         {
             return await stepContext.BeginDialogAsync(nameof(TopLevelDialog), null, cancellationToken);
+        }
+
+        private async Task<DialogTurnResult> NextStepAsync(WaterfallStepContext stepContext, CancellationToken cancellationToken)
+        {
+            return await stepContext.BeginDialogAsync(nameof(TestDialog), null, cancellationToken);
         }
 
         private async Task<DialogTurnResult> FinalStepAsync(WaterfallStepContext stepContext, CancellationToken cancellationToken)
